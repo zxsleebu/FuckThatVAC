@@ -18,7 +18,7 @@
 $steamPath = "C:\Program Files (x86)\Steam\steam.exe"
 $vacBypassPath = "VAC-Bypass.dll"
 $process = "steam.exe"
-$launchOptions = "-norepairfiles -noverifyfiles -nodircheck"
+$launchOptions = "-nocrashdialog -nocrashmonitor -silent -norepairfiles -noverifyfiles -nodircheck"
 
 ; Breaking internet connection
 RunWait('ipconfig /release', @TempDir, @SW_HIDE)
