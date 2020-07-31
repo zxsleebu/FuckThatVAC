@@ -1,5 +1,5 @@
 # FuckThatVAC
-[VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader "VAC-Bypass-Loader")  light-weight alternative written on AutoIT v3
+[VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader "VAC-Bypass-Loader") alternative written on AutoIT v3
 
 
 # ⚠️ Warning ⚠️
